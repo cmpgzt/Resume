@@ -1,0 +1,7 @@
+body{
+  background-color: white;
+  color: darkgreen; font-family:fantasy;
+}
+.Left{float:left; width: 500px}
+.Right{float:right; width: 700px}
+.container{width: 700px}
